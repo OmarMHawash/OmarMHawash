@@ -1,11 +1,11 @@
 <h1 align="center">Hi! ✊, Omar Hawash</h1>
 <h3 align="center" >Web Dev</h3>
 
-- 🌱 I’m currently learning **Too much**
+### 🌱 I’m currently learning: [Too much](https://github.com/OmarMHawash)
 
-- 🤝 I’m looking for help with [Centering a div](https://stackoverflow.com/questions/114543/how-can-i-horizontally-center-an-element)
+### 🤝 I’m looking for help with [Centering a div](https://stackoverflow.com/questions/114543/how-can-i-horizontally-center-an-element)
 
-- ⚡ Fun fact **I Enjoy red bugs**.
+### ⚡ Fun fact: [I Enjoy red bugs](https://github.com/OmarMHawash).
 
   <h3 align="left">Connect with me:</h3>
     <p align="left">
