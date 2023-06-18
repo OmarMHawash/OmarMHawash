@@ -1,11 +1,11 @@
-<h1 align="center">Hi! ✊, Omar Hawash</h1>
-<h3 align="center" >Web Dev</h3>
+<h1 align="center">Hi! ✊</h1>
 
-### 🌱 I’m currently learning: [Too much](https://github.com/OmarMHawash)
+### 🌱 currently learning: [Too much](https://res.cloudinary.com/practicaldev/image/fetch/s--0zJPt8Bj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://memegenerator.net/img/instances/82054185/so-little-time-so-much-to-learn.jpg)
 
 ### 🤝 I’m looking for help with [Centering a div](https://stackoverflow.com/questions/114543/how-can-i-horizontally-center-an-element)
 
-### ⚡ Fun fact: [I Enjoy red bugs](https://github.com/OmarMHawash).
+### ⚡ Fun fact: [I Enjoy red bugs](http://m.quickmeme.com/img/9e/9e7cd6cca8ad668e9c38fcb512da38e09a6812d76c831d69820df2c266e01120.jpg)
+
 
   <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -37,9 +37,3 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Cloud Enviroments</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmhawash&show_icons=true&locale=en&layout=compact" alt="omarmhawash" />
